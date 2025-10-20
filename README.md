@@ -1,1 +1,1 @@
-https://github.com/dimonkayaking/posmotri-v-okno-ad
+https://github.com/dimonkayaking/ono-tebe-nado-ad
